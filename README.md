@@ -1,7 +1,6 @@
 **Atividade prática - módulo 6 - Bootcamp Generation**
 
-**Tema:** Operadores Relacionais 
-
+**Tema:** Operadores Lógicos
 Atividade 1 - Criar um algoritmo utilizando variáveis do tipo float, realizar entradas com o valor de "salário" e "abono" e ter como saída o "Novo Salário".
 
 Atividade 2 - Recebe 4 notas de um participante em variáveis do tipo float e exibe o resultado da média.
